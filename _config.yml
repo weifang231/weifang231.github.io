@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "weifang's homepage"
+title                    : "Weifang's homepage"
 title_separator          : "-"
 name                     : &name "Weifang Zhang"
 description              : &description "Graduate majoring in applied statistics at Renmin University of China"
