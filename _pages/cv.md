@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Statistics, Southwestern University of Finance and Economics, 2022
+* M.S. in School of Statistics, Renmin University of China, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Spring 2023: Member
+  * Institute of Statistics and Big Data, Renmin University of China
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Xing Yan
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2021: Member
+  * School of Statistics, Southwestern University of Finance and Economics
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Liang Wu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Data processing packages including Numpy, Pandas
+  * Proficient in Scikit-learn
+* Matlab
+* R
+* Latex
+* SQL
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
