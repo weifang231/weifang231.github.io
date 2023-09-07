@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download the pdf version here.
+
 Education
 ======
 * B.S. in School of Statistics, Southwestern University of Finance and Economics, 2022
