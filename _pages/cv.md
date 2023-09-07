@@ -43,6 +43,7 @@ Skills
   * Data processing packages including Numpy, Pandas
   * Proficient in Scikit-learn
 * Matlab
+  * Financial Toolbox
 * R
 * Latex
 * SQL
