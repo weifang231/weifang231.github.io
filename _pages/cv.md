@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download the pdf version here.
+[Download the pdf version here.](https://weifang231.github.io/files/Weifang_Zhang_CV.pdf)
 
 Education
 ======
@@ -19,14 +19,23 @@ Education
 Research experience
 ======
 * Spring 2023: Member
-  * Institute of Statistics and Big Data, Renmin University of China
+  * [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/)
   * Duties included: Tagging issues
-  * Supervisor: Professor Xing Yan
+  * Supervisor: [Professor Xing Yan](https://sites.google.com/view/xingyan)
 
 * Fall 2021: Member
-  * School of Statistics, Southwestern University of Finance and Economics
+  * [School of Statistics](https://stat.swufe.edu.cn/), [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Liang Wu
+  * Supervisor: [Professor Liang Wu](https://stat.swufe.edu.cn/info/1046/1354.htm)
+ 
+
+ 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
   
 Skills
 ======
@@ -38,10 +47,5 @@ Skills
 * Latex
 * SQL
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
   
