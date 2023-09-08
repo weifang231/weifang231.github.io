@@ -20,7 +20,7 @@ Research experience
 ======
 * Spring 2023: Member
   * [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/)
-  * Duties included: Employ tail quantile clustering based on profit and loss (PnL) strategy distributions, grouping stocks with similar tail features together and conducting dual optimization within and between clusters. At each investment date, simulate new samples from an AR(1)-GARCH(1,1) model with incorporated factor structure. These simulated samples are then utilized for subsequent CVaR portfolio optimization, creating a dynamic investment strategy.
+  * Duties included: Employ tail quantile clustering based on profit and loss (PnL) strategy distributions, grouping stocks with similar tail features together and conducting dual optimization within and between clusters. Simulate new samples from an AR(1)-GARCH(1,1) model with incorporated factor structure at each investment date. s Then utilize these simulated samples for subsequent CVaR portfolio optimization, creating a dynamic investment strategy.
   * Supervisor: [Professor Xing Yan](https://sites.google.com/view/xingyan)
 
 * Fall 2021: Member
