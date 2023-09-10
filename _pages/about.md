@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest includes Data-Driven Decisions, Financial Machine Learning and Portfolio Optimization.
+I'm a graduate student from [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interests include Data-Driven Decisions, Financial Machine Learning and Portfolio Optimization.
 
 I am currently seeking for Ph.D. positions in these fields. You are more than welcome to contact me if you want to know more about me or collaborate with me.
 
