@@ -13,8 +13,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Department of Logistics and Maritime Studies, Faculty of Business, The Hong Kong Polytechnic University, 2028 (expected)
+  * Advisor: [Prof. Shining Wu](https://www.polyu.edu.hk/lms/people/academic-staff/shining-wu/)
+* M.S. in School of Statistics, Renmin University of China, 2024
 * B.S. in School of Statistics, Southwestern University of Finance and Economics, 2022
-* M.S. in School of Statistics, Renmin University of China, 2024 (expected)
 
 Research experience
 ======
